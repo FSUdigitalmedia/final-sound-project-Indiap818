@@ -25,4 +25,4 @@ Then, edit this README.md file:
 https://archive.org/details/YOUR_IDENTIFIER
 
 ## Notes
-
+Soundbit file based on a sound reel that I made for animation class. This soundbit is supposed to be calm and flowing.
