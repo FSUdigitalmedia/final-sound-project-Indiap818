@@ -1,4 +1,4 @@
-# VCV Rack Project Template
+# Final project: fuzz
 
 ## How to Submit This Assignment
 
@@ -25,4 +25,4 @@ Then, edit this README.md file:
 https://archive.org/details/YOUR_IDENTIFIER
 
 ## Notes
-Soundbit file based on a sound reel that I made for animation class. This soundbit is supposed to be calm and flowing.
+Soundbit file based on a sound reel that I made for animation class. This soundbit is supposed to be fuzzy and grainy.
